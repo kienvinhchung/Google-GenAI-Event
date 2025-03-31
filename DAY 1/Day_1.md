@@ -20,7 +20,7 @@
 
 * Want to have an interactive conversation (https://support.google.com/notebooklm/answer/15731776?hl=en&ref_topic=14272601&sjid=16012842710481496794-EU) ? Try adding the whitepapers to NotebookLM (https://notebooklm.google.com/?original_referer=https:%2F%2Fwww.google.com%23&pli=1)
 
-## 💡What You’ll Learn
+## 💡 What You’ll Learn
 
 * Today you’ll explore the evolution of LLMs, from transformers to techniques like fine-tuning and inference acceleration. You’ll also get trained in the art of prompt engineering for optimal LLM interaction and evaluating LLMs. 
 
