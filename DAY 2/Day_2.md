@@ -1,4 +1,4 @@
-# DAY 1
+# DAY 2
 
 
 ## Complete Unit 2: “Embeddings and Vector Stores/Databases”
