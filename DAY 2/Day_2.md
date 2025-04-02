@@ -3,19 +3,19 @@
 
 ## Complete Unit 2: “Embeddings and Vector Stores/Databases”
 
-* Listen to the summary podcast episode for this unit:<br>(https://www.youtube.com/watch?v=xCAVsst6WJ8&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=3)
+* Listen to the summary podcast episode for this unit: <br>(https://www.youtube.com/watch?v=xCAVsst6WJ8&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=3)
 
-* To complement the podcast, read the “Embeddings and Vector Stores/Databases” whitepaper:<br>(https://kaggle.com/whitepaper-embeddings-and-vector-stores)
+* To complement the podcast, read the “Embeddings and Vector Stores/Databases” whitepaper: <br>(https://kaggle.com/whitepaper-embeddings-and-vector-stores)
 
 * Complete these code labs on Kaggle:
 
-    * Build a RAG question-answering system over custom documents:<br>(https://www.kaggle.com/code/markishere/day-2-document-q-a-with-rag)
+    * Build a RAG question-answering system over custom documents: <br>(https://www.kaggle.com/code/markishere/day-2-document-q-a-with-rag)
 
-    * Explore text similarity with embeddings:<br>(https://www.kaggle.com/code/markishere/day-2-embeddings-and-similarity-scores)
+    * Explore text similarity with embeddings: <br>(https://www.kaggle.com/code/markishere/day-2-embeddings-and-similarity-scores)
 
-    * Build a neural classification network with Keras using embeddings:<br>(https://www.kaggle.com/code/markishere/day-2-classifying-embeddings-with-keras)
+    * Build a neural classification network with Keras using embeddings: <br>(https://www.kaggle.com/code/markishere/day-2-classifying-embeddings-with-keras)
 
-* Want to have an interactive conversation?<br>(https://support.google.com/notebooklm/answer/15731776?hl=en&ref_topic=14272601&sjid=16012842710481496794-EU)<br>Try adding the whitepaper to NotebookLM:<br>(https://notebooklm.google.com/?original_referer=https:%2F%2Fwww.google.com%23&pli=1)
+* Want to have an interactive conversation? <br>(https://support.google.com/notebooklm/answer/15731776?hl=en&ref_topic=14272601&sjid=16012842710481496794-EU) <br>Try adding the whitepaper to NotebookLM: <br>(https://notebooklm.google.com/?original_referer=https:%2F%2Fwww.google.com%23&pli=1)
 
 
 ## 💡What You’ll Learn
