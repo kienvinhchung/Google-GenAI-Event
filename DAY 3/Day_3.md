@@ -16,7 +16,10 @@
 
 * Read the advanced “Agents Companion” whitepaper <br>(https://www.kaggle.com/whitepaper-agent-companion)
 
-* Want to have an interactive conversation? <br>(https://support.google.com/notebooklm/answer/15731776?hl=en&ref_topic=14272601&sjid=16012842710481496794-EU) <br>Try adding the whitepaper to NotebookLM <br>(https://notebooklm.google.com/?original_referer=https:%2F%2Fwww.google.com%23&pli=1) .
+* Want to have an interactive conversation? <br>
+(https://support.google.com/notebooklm/answer/15731776?hl=en&ref_topic=14272601&sjid=16012842710481496794-EU) <br>
+Try adding the whitepaper to NotebookLM <br>
+(https://notebooklm.google.com/?original_referer=https:%2F%2Fwww.google.com%23&pli=1)
 
 
 ## 💡What You’ll Learn:
